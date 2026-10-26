@@ -1,7 +1,5 @@
 # Multilingual-Translation-Suite-FGAI
 
-# Multilingual Generative Text Translation Suite
-
 ## Problem Statement and Objective
 The objective of this project is to develop, evaluate, and compare machine translation systems across encoder-decoder and decoder-only architectures. The system translates English text to French using four foundational generative AI models.
 
